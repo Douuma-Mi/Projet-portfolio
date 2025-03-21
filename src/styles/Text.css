@@ -1,0 +1,21 @@
+div {
+    padding: 8px !important;
+  }
+  
+  h1 {
+    text-align: center !important;
+    text-transform: uppercase !important;
+    color: #646cff !important;
+  }
+  
+  p {
+    text-indent: 50px !important;
+    text-align: justify !important;
+    letter-spacing: 3px !important;
+    color: rgb(255, 255, 255);
+  }
+  
+  a {
+    text-decoration: none!important;
+    color: #008CBA !important ;
+  }
