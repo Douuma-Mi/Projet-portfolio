@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 import Cards from './components/Cards'
-import Img from './components/Img'
+import Image from './components/Image'
 import Links from './components/Links'
 import Navbar from './components/Navbar'
 import Text from './components/Text'
@@ -11,7 +11,7 @@ function App() {
   return (
      <>
     <Navbar/>
-   <Img/>
+   <Image/>
    <Text/>
   <Links/>
    <Cards/>
