@@ -2,7 +2,7 @@ import React from 'react'
 import { Carousel } from 'react-bootstrap'
 import Css from './Css'
 import Reac from './Reac'
-import Javascrip from './javaScrip'
+import Javascrip from './Javascrip'
 import Htm from './Htm'
 
 function Skills() {
