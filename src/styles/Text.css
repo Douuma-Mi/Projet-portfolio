@@ -5,13 +5,14 @@ div {
   h1 {
     text-align: center !important;
     text-transform: uppercase !important;
-    color: #646cff !important;
+    color: #ff0000 !important;
+    font-size: 25px;
+
   }
   
   p {
     text-indent: 50px !important;
-    text-align: justify !important;
-    letter-spacing: 3px !important;
+    text-align: center !important;
     color: rgb(255, 255, 255);
   }
   

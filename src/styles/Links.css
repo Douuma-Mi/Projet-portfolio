@@ -1,8 +1,13 @@
 .linkeeeees{
-    display: flex !important
-;
-        flex-direction: column;
-        flex-wrap: nowrap;
+    display: flex !important;
+        flex-wrap: wrap;
         align-content: stretch;
-        justify-content: center;
+        justify-content: space-evenly;
+}
+.linkeeeees a { 
+    color: #ffffff !important;
+
+}
+.linkeeeees a :hover {
+    color: #ff0000 !important;
 }
